@@ -1,0 +1,10 @@
+T09336_beggini	1
+T09344_beggini	1
+T09345_beggini	1
+T09392_beggini	1
+T09393_beggini	1
+T09395_beggini	1
+T09396_beggini	1
+T09487_beggini	1
+T09834_beggini	1
+V5424_beggini	1
